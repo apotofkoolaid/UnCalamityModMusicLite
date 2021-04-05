@@ -1,2 +1,7 @@
-# UnCalamityMusicLite
-A mod for Terraria that replaces all vanilla music tracks with ones that better fit with the Calamity Mod OST. This is the lite version of the mod, meaning it only contains boss tracks.
+# Credits
+
+Music by: Heart Plus Up!, SkippyZii, novaGnomes, KipperSkipp, Salvati, and Thriplerex
+
+Sprites by: Seasalt, RiverOaken, R8DIO, and Heart Plus Up!
+
+Coded by: apotofkoolaid and FullOfXP
