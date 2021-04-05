@@ -2,7 +2,7 @@
 
 This is the lite version of the mod, meaning this only contains boss tracks and nothing else. 
 
-Please head to our Discord server for a download for the full version:
+Please head to our Discord server to download the full version:
 https://discord.gg/2jaEwNJm9e
 
 # Credits
