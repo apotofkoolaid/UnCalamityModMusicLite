@@ -9,6 +9,6 @@ https://discord.gg/2jaEwNJm9e
 
 Music by: Heart Plus Up!, SkippyZii, novaGnomes, KipperSkipp, Salvati, and Thriplerex
 
-Sprites by: Seasalt, RiverOaken, R8DIO, and Heart Plus Up!
+Sprites by: Seasalt, RiverOaken, R8DIO, toothbrush, and Heart Plus Up!
 
 Coded by: apotofkoolaid and FullOfXP
