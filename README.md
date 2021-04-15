@@ -1,4 +1,4 @@
-# Important Note
+# **Important Note**
 
 This is the lite version of the mod, meaning this only contains boss tracks and nothing else. 
 
