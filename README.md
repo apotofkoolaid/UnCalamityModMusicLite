@@ -7,7 +7,7 @@ https://discord.gg/2jaEwNJm9e
 
 # Credits
 
-Music by: Heart Plus Up!, SkippyZii, Thriplerex, Salvati, KipperSkipp, and novaGnomes
+Music by: Heart Plus Up!, SkippyZii, Thriplerex, Salvati, and novaGnomes
 
 Sprites by: Heart Plus Up!, Seasalt, RiverOaken, R8DIO, toothbrush, IbanPlay, and Cooper
 
