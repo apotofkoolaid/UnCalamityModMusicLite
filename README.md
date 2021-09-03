@@ -9,6 +9,6 @@ https://discord.gg/2jaEwNJm9e
 
 Music by: Heart Plus Up!, SkippyZii, Thriplerex, Salvati, and novaGnomes
 
-Sprites by: Heart Plus Up!, Seasalt, toothbrush, IbanPlay, Cooper, Blasfah, and Hugekraken
+Sprites by: Heart Plus Up!, Seasalt, toothbrush, IbanPlay, Cooper, and Hugekraken
 
 Coded by: apotofkoolaid
