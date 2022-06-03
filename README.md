@@ -1,6 +1,6 @@
-# This Lite version is now outdated
+# This version is outdated
 
-This is the discontinued lite version of the mod for 1.3, meaning this only contains boss tracks and nothing else. 
+This is the discontinued lite version of Unofficial Calamity Mod Music for 1.3. 
 
 Please head to the mod's Discord server or Steam Workshop page to download the full, currently supported version:
 
