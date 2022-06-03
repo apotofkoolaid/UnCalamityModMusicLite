@@ -1,4 +1,4 @@
-# Important Note
+# Important: Outdated Mod
 
 This is the discontinued lite version of the mod for 1.3, meaning this only contains boss tracks and nothing else. 
 
