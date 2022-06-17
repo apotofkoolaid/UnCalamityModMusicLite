@@ -8,4 +8,4 @@ Discord: https://discord.gg/2jaEwNJm9e
 
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2816188633
 
-This repository will stay up until the 1.3 Mod Browser shuts down.
+This repository will stay up until the 1.3 mod browser shuts down.
