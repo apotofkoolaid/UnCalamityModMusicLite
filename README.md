@@ -1,4 +1,4 @@
-# UnCalamityModMusicLite (OUTDATED)
+# UnCalamityModMusicLite (For 1.3, Outdated)
 
 This is the discontinued lite version of Unofficial Calamity Mod Music for 1.3. 
 
